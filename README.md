@@ -16,7 +16,15 @@
 <hr>
 
 <p align="center">
-        <img src="https://github.com/ehotedas/ehotedas/blob/main/icons8-html-5-64.png">
-        <img src="https://github.com/ehotedas/ehotedas/blob/main/icons8-ficheiro-css-64.png">
-        <img src="https://github.com/ehotedas/ehotedas/blob/main/icons8-javascript-64.png"> 
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Abilities/icons8-html-5-64.png">
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Abilities/icons8-ficheiro-css-64.png">
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Abilities/icons8-javascript-64.png"> 
 </p>
+
+### My Social Networks
+<hr>
+        <p align="center">
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-linkedin-64.png">
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-twitter-quadrado-64.png">
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-logo-discord-64.png"> 
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-whatsapp-64.png">
