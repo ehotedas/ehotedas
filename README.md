@@ -8,10 +8,10 @@
 
 <img src="assets\Profile\icons8-página-inicial-64.png" width="50" align="center"> I Live in South Zone of Brazil.
 
-### My Languagens 
+### My Languages
 
-        <p> English </p>
-        <p> Portuguese-Brazilian </p>
+<p> English so-so </p>
+<p> Portuguese-Brazilian Fluently </p>
 
 ### My Features
 
