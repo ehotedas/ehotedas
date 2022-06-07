@@ -1,16 +1,13 @@
-<h1> Welcome to my profile in Github </h1> 
+<h1> Welcome to my profile in Github </h1>
                   <hr>
                             <h2>About Me </h2>
+                            
+                            
+<img src="assets\Profile\pinguim.gif" width="190" height="180" align="right">
 
 <img src="assets\Profile\icons8-linux-64.png" width="50" align="center"> My name is Gabriel Bucciarati.
 
 <img src="assets\Profile\icons8-aniversário-64.png" class="cake" width="50" align="center">  My birthday date is April 26th.
-
-
-<img src="assets\Profile\pinguim.gif" width="50" align="right">
-
-<img src="assets\Profile\opm-ok.gif" align="right" width="100" display="inline-block">
-
 
 <img src="assets\Profile\icons8-página-inicial-64.png" width="50" align="center"> I Live in South Zone of Brazil.
 
