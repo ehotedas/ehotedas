@@ -10,6 +10,8 @@
 
 <img src="assets\Profile\icons8-página-inicial-64.png" width="50" align="center"> I Live in South Zone of Brazil.
 
+<img src="https://github-readme-stats.vercel.app/api?username=ehotedas&show_icons=true&theme=tokyonight" align="right">
+
 ### My Languages
 
 <p> English so-so </p>
@@ -28,7 +30,6 @@
         <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Abilities/icons8-html-5-64.png">
         <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Abilities/icons8-ficheiro-css-64.png">
         <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Abilities/icons8-javascript-64.png"> 
-        <img src="assets\Abilities\icons8-logo-mysql-48.png">
         <img src="assets\Abilities\icons8-mysql-64.png">
 </p>
 
