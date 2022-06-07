@@ -1,16 +1,22 @@
 <h1> Welcome to my profile in Github </h1> 
                   <hr>
                             <h2>About Me </h2>
-<p> Hello! My name is Gabriel Bucciarati! Nice to Meet you. </p>   
+                            
+<img src="https://github.com/ehotedas/ehotedas/blob/main/cake.gif" class="cake" width="50">  My birthday date is April 26th.
 
 
 
-<img src="https://github.com/ehotedas/ehotedas/blob/main/cake.gif" class="cake" margin-right:100>
+### My Features
 
-<p align=center> My birthday date is April 26th. </p>
+- [x] I am a very friendly person.
+- [x] First job as Developer
+- [x] Middle ground between listening and talking
 
-### Features
+### My Abilities
+<hr>
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+<p align="center">
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/icons8-html-5-64.png">
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/icons8-ficheiro-css-64.png">
+        <img src="https://github.com/ehotedas/ehotedas/blob/main/icons8-javascript-64.png"> 
+</p>
