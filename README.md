@@ -2,7 +2,7 @@
                   <hr>
                             <h2>About Me </h2>
                             
-<img src="https://github.com/ehotedas/ehotedas/blob/main/cake.gif" class="cake" width="50">  My birthday date is April 26th.
+<img src="assets\Profile\cake.gif" class="cake" width="50">  My birthday date is April 26th.
 
 
 
