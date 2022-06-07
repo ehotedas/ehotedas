@@ -8,6 +8,8 @@
 
 <img src="assets\Profile\icons8-página-inicial-64.png" width="50" align="center"> I Live in South Zone of Brazil.
 
+<img src="https://github-readme-stats.vercel.app/api?username=ehotedas&show_icons=true&theme=tokyonight" align="right">
+
 ### My Languages
 
 <p> English so-so </p>
