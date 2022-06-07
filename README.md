@@ -5,6 +5,12 @@
 
 
 
-<img src="https://github.com/ehotedas/ehotedas/blob/main/cake.gif" class="cake">
+<img src="https://github.com/ehotedas/ehotedas/blob/main/cake.gif" class="cake" margin-right:100>
 
 <p align=center> My birthday date is April 26th. </p>
+
+### Features
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
