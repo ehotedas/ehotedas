@@ -4,6 +4,7 @@
 <p> Hello! My name is Gabriel Bucciarati! Nice to Meet you. </p>   
 
 
+
 <img src="https://github.com/ehotedas/ehotedas/blob/main/cake.gif" class="cake">
 
-<p> My birthday date is April 26th. </p>
+<p align=center> My birthday date is April 26th. </p>
