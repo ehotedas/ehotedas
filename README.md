@@ -24,7 +24,8 @@
 ### My Social Networks
 <hr>
         <p align="center">
-        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-linkedin-64.png">
-        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-twitter-quadrado-64.png">
-        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-logo-discord-64.png"> 
-        <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-whatsapp-64.png">
+        <a href="https://www.linkedin.com/in/gabriel-demarchi-1504ba18a/"><img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-linkedin-64.png"></a>
+        <a href="https://twitter.com/the_bucciarati"><img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-twitter-quadrado-64.png"></a>
+        <a href="https://api.whatsapp.com/send?phone=47984185003&text=Hello,%20Vim%20pelo%20GitHub!"><img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-whatsapp-64.png"></a>
+
+   
