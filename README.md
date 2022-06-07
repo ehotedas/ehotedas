@@ -6,6 +6,8 @@
 
 <img src="assets\Profile\icons8-aniversário-64.png" class="cake" width="50" align="center">  My birthday date is April 26th.
 
+<img src="assets\Profile\23a2cd8940ffc030bdb82bd6e785dd6b_400x400.png" width="50" align="right">
+
 <img src="assets\Profile\icons8-página-inicial-64.png" width="50" align="center"> I Live in South Zone of Brazil.
 
 ### My Languages
