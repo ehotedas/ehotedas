@@ -10,8 +10,8 @@
 
 ### My Languagens 
 
-        ## English
-        ## Portuguese-Brazil
+        <p> English </p>
+        <p> Portuguese-Brazilian </p>
 
 ### My Features
 
