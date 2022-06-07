@@ -1,6 +1,7 @@
 <h1> Welcome to my profile in Github </h1> 
                   <hr>
                             <h2>About Me </h2>
+
 <img src="assets\Profile\icons8-trepadeira-de-minecraft-48.png"> Meu nome é Gabriel Demarchi
 <img src="assets\Profile\cake.gif" class="cake" width="50">  My birthday date is April 26th.
 
