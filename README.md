@@ -13,10 +13,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ehotedas&show_icons=true&theme=tokyonight" align="right">
 
+<hr>
+
 ### My Languages
 
 <p> English so-so </p>
 <p> Portuguese-Brazilian Fluently </p>
+
+<hr>
 
 ### My Features
 
