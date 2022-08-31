@@ -45,4 +45,16 @@
         <a href="https://twitter.com/the_bucciarati"><img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-twitter-quadrado-64.png"></a>
         <a href="https://api.whatsapp.com/send?phone=47984185003&text=Olá,%20Vim%20pelo%20GitHub!"><img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-whatsapp-64.png"></a>
         <a href="mailto:gabrielhanma@outlook.com"><img src="assets\Social Networks\icons8-gmail-64 (1).png"></a>
+        
+ <hr>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehotedas&langs_count=8">
+</p>
+
+<p align="center">
+<img src="https://gamerview.uai.com.br/wp-content/uploads/2019/12/mario-gif.gif">
+<img src="https://66.media.tumblr.com/tumblr_m9wl6ntCyF1rfjowdo1_1280.gif" width="105">
+</p>
+
    
