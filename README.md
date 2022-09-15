@@ -36,6 +36,7 @@
         <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Abilities/icons8-ficheiro-css-64.png">
         <img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Abilities/icons8-javascript-64.png"> 
         <img src="assets\Abilities\icons8-mysql-64.png">
+        <img src="https://raw.githubusercontent.com/ehotedas/ehotedas/main/assets/Abilities/icons8-php-64.png">
 </p>
 
 ### My Social Networks
