@@ -1,6 +1,6 @@
-<h1> Welcome to my profile in Github! </h1>
+<h1 align="center"> WELCOME TO MY PROFILE IN GITHUB! </h1>
                   <hr>
-                            <h2>About Me </h2>
+                            <h2 align="center"> ABOUT ME </h2>
                             
                             
 <img src="assets\Profile\pinguim.gif" width="190" height="180" align="right">
@@ -15,20 +15,20 @@
 
 <hr>
 
-### My Languages
+<h1 align="center"> My Languages </h1>
 
-<p> English so-so </p>
-<p> Portuguese-Brazilian Fluently </p>
+<p align="center"> English so-so </p>
+<p align="center"> Portuguese-Brazilian Fluently </p>
 
 <hr>
 
-### My Features
+<h1 align="center"> My Features </h1>
 
 - [x] I am a very friendly person.
 - [x] First job as Developer
 - [x] Middle ground between listening and talking
 
-### My Abilities
+<h1 align="center"> My Abilities </h1>
 <hr>
 
 <p align="center">
@@ -39,12 +39,12 @@
         <img src="https://raw.githubusercontent.com/ehotedas/ehotedas/main/assets/Abilities/icons8-php-64.png">
 </p>
 
-### My Frameworks
+<h1 align="center"> My Frameworks</h1>
 <hr>
         <p align="center">
         <img src="https://raw.githubusercontent.com/ehotedas/ehotedas/main/assets/Abilities/icons8-express-js-64.png"></a>
  
- ### My Social Networks
+<h1 align="center">  My Social Networks </h1>
 <hr>
         <p align="center">
         <a href="https://www.linkedin.com/in/gabriel-demarchi-1504ba18a/"><img src="https://github.com/ehotedas/ehotedas/blob/main/assets/Social%20Networks/icons8-linkedin-64.png"></a>
