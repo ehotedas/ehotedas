@@ -43,8 +43,6 @@
 <hr>
         <p align="center">
         <img src="https://raw.githubusercontent.com/ehotedas/ehotedas/main/assets/Abilities/icons8-express-js-64.png"></a>
-        
- <hr>
  
  ### My Social Networks
 <hr>
