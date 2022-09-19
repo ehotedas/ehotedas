@@ -58,5 +58,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehotedas&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
-<p align="center"> <img src="https://img.wattpad.com/b95c9ad5a9e310862b445a7cb3c14543577c395f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5a735f35336c6b684557363754413d3d2d3632353735303037342e3135353031393532376535366230366237333439303030353036382e676966" width=500 height=300 align=center> </p>
+
    
