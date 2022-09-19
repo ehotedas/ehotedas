@@ -38,11 +38,6 @@
         <img src="assets\Abilities\icons8-mysql-64.png">
         <img src="https://raw.githubusercontent.com/ehotedas/ehotedas/main/assets/Abilities/icons8-php-64.png">
 </p>
-
-<h1 align="center"> My Frameworks</h1>
-<hr>
-        <p align="center">
-        <img src="https://raw.githubusercontent.com/ehotedas/ehotedas/main/assets/Abilities/icons8-express-js-64.png"></a>
  
 <h1 align="center">  My Social Networks </h1>
 <hr>
