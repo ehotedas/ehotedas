@@ -15,3 +15,7 @@
   </pre>
 
 </div>
+
+<p align="center">
+   <img src="https://parrotsec.org/docs/img/parrot-logo.svg" width="120" alt"ParrotOs">
+</p>
