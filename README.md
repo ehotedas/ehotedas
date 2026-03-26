@@ -16,6 +16,16 @@
 
 </div>
 
+## ⚒️ My Stacks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,vscode,mysql,powershell,raspberrypi,redhat"/>
+  <br><br>
+</p>
+
+---
+
+
 <p align="center">
    <img src="https://parrotsec.org/docs/img/parrot-logo.svg" width="120" alt"ParrotOs">
 </p>
